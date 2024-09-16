@@ -1,0 +1,14 @@
+C:\Users\rmrud\source\repos\ConsoleApp1\To-DoApp\bin\Debug\net8.0\To-DoApp.exe
+C:\Users\rmrud\source\repos\ConsoleApp1\To-DoApp\bin\Debug\net8.0\To-DoApp.deps.json
+C:\Users\rmrud\source\repos\ConsoleApp1\To-DoApp\bin\Debug\net8.0\To-DoApp.runtimeconfig.json
+C:\Users\rmrud\source\repos\ConsoleApp1\To-DoApp\bin\Debug\net8.0\To-DoApp.dll
+C:\Users\rmrud\source\repos\ConsoleApp1\To-DoApp\bin\Debug\net8.0\To-DoApp.pdb
+C:\Users\rmrud\source\repos\ConsoleApp1\To-DoApp\obj\Debug\net8.0\To-DoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmrud\source\repos\ConsoleApp1\To-DoApp\obj\Debug\net8.0\To-DoApp.AssemblyInfoInputs.cache
+C:\Users\rmrud\source\repos\ConsoleApp1\To-DoApp\obj\Debug\net8.0\To-DoApp.AssemblyInfo.cs
+C:\Users\rmrud\source\repos\ConsoleApp1\To-DoApp\obj\Debug\net8.0\To-DoApp.csproj.CoreCompileInputs.cache
+C:\Users\rmrud\source\repos\ConsoleApp1\To-DoApp\obj\Debug\net8.0\To-DoApp.dll
+C:\Users\rmrud\source\repos\ConsoleApp1\To-DoApp\obj\Debug\net8.0\refint\To-DoApp.dll
+C:\Users\rmrud\source\repos\ConsoleApp1\To-DoApp\obj\Debug\net8.0\To-DoApp.pdb
+C:\Users\rmrud\source\repos\ConsoleApp1\To-DoApp\obj\Debug\net8.0\To-DoApp.genruntimeconfig.cache
+C:\Users\rmrud\source\repos\ConsoleApp1\To-DoApp\obj\Debug\net8.0\ref\To-DoApp.dll
