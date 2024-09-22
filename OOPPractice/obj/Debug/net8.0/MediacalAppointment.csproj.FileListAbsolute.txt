@@ -1,0 +1,5 @@
+C:\Users\rmrud\source\repos\ConsoleApp1\OOPPractice\obj\Debug\net8.0\MediacalAppointment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmrud\source\repos\ConsoleApp1\OOPPractice\obj\Debug\net8.0\MediacalAppointment.AssemblyInfoInputs.cache
+C:\Users\rmrud\source\repos\ConsoleApp1\OOPPractice\obj\Debug\net8.0\MediacalAppointment.AssemblyInfo.cs
+C:\Users\rmrud\source\repos\ConsoleApp1\OOPPractice\obj\Debug\net8.0\MediacalAppointment.csproj.CoreCompileInputs.cache
+C:\Users\rmrud\source\repos\ConsoleApp1\OOPPractice\obj\Debug\net8.0\MediacalAppointment.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\rmrud\source\repos\ConsoleApp1\SRP1\bin\Debug\net8.0\SRP1.exe
+C:\Users\rmrud\source\repos\ConsoleApp1\SRP1\bin\Debug\net8.0\SRP1.deps.json
+C:\Users\rmrud\source\repos\ConsoleApp1\SRP1\bin\Debug\net8.0\SRP1.runtimeconfig.json
+C:\Users\rmrud\source\repos\ConsoleApp1\SRP1\bin\Debug\net8.0\SRP1.dll
+C:\Users\rmrud\source\repos\ConsoleApp1\SRP1\bin\Debug\net8.0\SRP1.pdb
+C:\Users\rmrud\source\repos\ConsoleApp1\SRP1\obj\Debug\net8.0\SRP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmrud\source\repos\ConsoleApp1\SRP1\obj\Debug\net8.0\SRP1.AssemblyInfoInputs.cache
+C:\Users\rmrud\source\repos\ConsoleApp1\SRP1\obj\Debug\net8.0\SRP1.AssemblyInfo.cs
+C:\Users\rmrud\source\repos\ConsoleApp1\SRP1\obj\Debug\net8.0\SRP1.csproj.CoreCompileInputs.cache
+C:\Users\rmrud\source\repos\ConsoleApp1\SRP1\obj\Debug\net8.0\SRP1.sourcelink.json
+C:\Users\rmrud\source\repos\ConsoleApp1\SRP1\obj\Debug\net8.0\SRP1.dll
+C:\Users\rmrud\source\repos\ConsoleApp1\SRP1\obj\Debug\net8.0\refint\SRP1.dll
+C:\Users\rmrud\source\repos\ConsoleApp1\SRP1\obj\Debug\net8.0\SRP1.pdb
+C:\Users\rmrud\source\repos\ConsoleApp1\SRP1\obj\Debug\net8.0\SRP1.genruntimeconfig.cache
+C:\Users\rmrud\source\repos\ConsoleApp1\SRP1\obj\Debug\net8.0\ref\SRP1.dll

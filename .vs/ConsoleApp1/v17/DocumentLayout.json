@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\rmrud\\source\\repos\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4049D158-0B36-4CA3-B70C-5937E133B517}|SRP1\\SRP1.csproj|c:\\users\\rmrud\\source\\repos\\consoleapp1\\srp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4049D158-0B36-4CA3-B70C-5937E133B517}|SRP1\\SRP1.csproj|solutionrelative:srp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D9066-D271-4691-A4AC-5ACD3BEA9FA0}|Person\\Person.csproj|c:\\users\\rmrud\\source\\repos\\consoleapp1\\person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D9066-D271-4691-A4AC-5ACD3BEA9FA0}|Person\\Person.csproj|solutionrelative:person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C33918-24AC-4CF4-8191-D0D2D5BE6595}|Rectangle\\Rectangle.csproj|c:\\users\\rmrud\\source\\repos\\consoleapp1\\rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C33918-24AC-4CF4-8191-D0D2D5BE6595}|Rectangle\\Rectangle.csproj|solutionrelative:rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{367558D1-C1D6-47BD-9A44-954C03E5723E}|To-DoApp\\To-DoApp.csproj|c:\\users\\rmrud\\source\\repos\\consoleapp1\\to-doapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{367558D1-C1D6-47BD-9A44-954C03E5723E}|To-DoApp\\To-DoApp.csproj|solutionrelative:to-doapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{0FD2573B-AA3B-463C-BA66-A63439D38E1F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\rmrud\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FD2573B-AA3B-463C-BA66-A63439D38E1F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC9265E-BF07-4ABA-9DC1-3C5A4A20735F}|OOPPractice\\MediacalAppointment.csproj|c:\\users\\rmrud\\source\\repos\\consoleapp1\\ooppractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC9265E-BF07-4ABA-9DC1-3C5A4A20735F}|OOPPractice\\MediacalAppointment.csproj|solutionrelative:ooppractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +38,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rmrud\\source\\repos\\ConsoleApp1\\To-DoApp\\Program.cs",
-              "RelativeDocumentMoniker": "To-DoApp\\Program.cs",
-              "ToolTip": "C:\\Users\\rmrud\\source\\repos\\ConsoleApp1\\To-DoApp\\Program.cs",
-              "RelativeToolTip": "To-DoApp\\Program.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAUwGYAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\rmrud\\source\\repos\\ConsoleApp1\\SRP1\\Program.cs",
+              "RelativeDocumentMoniker": "SRP1\\Program.cs",
+              "ToolTip": "C:\\Users\\rmrud\\source\\repos\\ConsoleApp1\\SRP1\\Program.cs",
+              "RelativeToolTip": "SRP1\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIAwwCQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T00:51:21.538Z",
+              "WhenOpened": "2024-09-21T16:57:38.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rmrud\\source\\repos\\ConsoleApp1\\Person\\Program.cs",
+              "RelativeDocumentMoniker": "Person\\Program.cs",
+              "ToolTip": "C:\\Users\\rmrud\\source\\repos\\ConsoleApp1\\Person\\Program.cs",
+              "RelativeToolTip": "Person\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T03:53:59.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rmrud\\source\\repos\\ConsoleApp1\\Rectangle\\Program.cs",
+              "RelativeDocumentMoniker": "Rectangle\\Program.cs",
+              "ToolTip": "C:\\Users\\rmrud\\source\\repos\\ConsoleApp1\\Rectangle\\Program.cs",
+              "RelativeToolTip": "Rectangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T00:59:46.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rmrud\\source\\repos\\ConsoleApp1\\OOPPractice\\Program.cs",
+              "RelativeDocumentMoniker": "OOPPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\rmrud\\source\\repos\\ConsoleApp1\\OOPPractice\\Program.cs",
+              "RelativeToolTip": "OOPPractice\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:35:58.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rmrud\\source\\repos\\ConsoleApp1\\To-DoApp\\Program.cs",
+              "RelativeDocumentMoniker": "To-DoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\rmrud\\source\\repos\\ConsoleApp1\\To-DoApp\\Program.cs",
+              "RelativeToolTip": "To-DoApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T00:51:21.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rmrud\\source\\repos\\ConsoleApp1\\Calculator\\Program.cs",
               "RelativeDocumentMoniker": "Calculator\\Program.cs",
@@ -55,12 +115,11 @@
               "RelativeToolTip": "Calculator\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T05:34:22.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T05:34:22.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rmrud\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
@@ -68,8 +127,11 @@
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:37:42.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T07:37:42.204Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
